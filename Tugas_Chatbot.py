@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-API_KEY = ""
+API_KEY = "AIzaSyDh7sAqxYIUzWajFP2jC5i95uFq_CgE-_4"
 
 def chat(history, question):
     """Mengirimkan riwayat chat dan pertanyaan baru ke model AI"""
