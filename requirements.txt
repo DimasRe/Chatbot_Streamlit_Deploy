@@ -1,4 +1,2 @@
 streamlit
-numpy
-pandas
-fpdf
+langchain_google_genai
